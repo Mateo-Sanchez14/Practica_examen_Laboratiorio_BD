@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/DatosLibros2022.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parcial 2009/Parcial2009.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parcial 2009/llenardatos2009AMySQL.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parcial 2014/Parcial2014.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parcial 2014/llenardatos2014MySQL.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parcial 2016/DatosMySQL.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parcial 2016/Parcial2016.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parcial 2023/Parcial2023.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parciales 2021/Tema 3/Datos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Enunciados_viejos/Parciales 2021/Tema 3/Tema3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Libros.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>

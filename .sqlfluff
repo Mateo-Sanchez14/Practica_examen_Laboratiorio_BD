@@ -1,0 +1,23 @@
+[sqlfluff]
+templater = jinja
+sql_file_exts = .sql,.sql.j2,.dml,.ddl
+dialect = mysql
+exclude_rules = L003, LT01
+
+
+[sqlfluff:indentation]
+indented_joins = False
+indented_using_on = True
+template_blocks_indent = False
+
+[sqlfluff:templater]
+unwrap_wrapped_queries = True
+
+[sqlfluff:templater:jinja]
+apply_dbt_builtins = True
+
+; Add custom delimiter for Jinja templating, for stored procedures
+[sqlfluff:dialect_specific]
+mysql = {"delimiter": "$$"}
+
+
